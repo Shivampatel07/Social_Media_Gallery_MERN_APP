@@ -1,0 +1,27 @@
+/* Define custom classes for the gradients */
+.gradient-transition {
+    background-image: linear-gradient(90deg, #4CB8C4, #3CD3AD);
+    background-size: 200% 100%;
+    transition: background-position 0.5s;
+}
+
+/* Specify the gradient animation on hover */
+.gradient-transition:hover {
+    background-position: -100% 0;
+}
+
+
+.position-relative-delete:hover .delete-button {
+  visibility: visible;
+}
+.delete-button {
+  visibility: hidden;
+  position: absolute;
+  top: 10px; /* Adjust top and right values as needed */
+  right: 10px;
+  border: solid 1px black;
+  border-radius: 50%;
+  padding: 5px;
+  background-color: white;
+  transition: visibility 0.3s; /* Add a smooth transition */
+}
