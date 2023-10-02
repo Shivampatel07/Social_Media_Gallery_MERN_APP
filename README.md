@@ -8,7 +8,8 @@ Certainly! Here's a description you can use for your GitHub repository as a main
 
 **Welcome to the Social Media Gallery MERN App Repository**
 
-![Project Logo](insert-link-to-your-logo-or-image.png)
+![logo](https://github.com/Shivampatel07/Social_Media_Gallery_MERN_APP/assets/102176101/5c49c45a-6888-493b-8c2d-18174329d741)
+
 
 🚀 **Project Overview:**
 Welcome to the Social Media Gallery MERN App, an exciting open-source project that's all about connecting people through visuals! Our mission is to create a user-friendly platform that allows users to share their favorite images and videos with the world. From stunning travel photos to delicious food videos, we've got it all!
