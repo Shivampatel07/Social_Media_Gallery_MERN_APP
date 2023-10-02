@@ -4,6 +4,9 @@ Certainly! Here's a description you can use for your GitHub repository as a main
 
 ---
 
+![1500x500](https://github.com/Shivampatel07/Social_Media_Gallery_MERN_APP/assets/102176101/03e26391-6bfa-47e0-aad5-a474e70449b1)
+
+
 🌟 **Hacktoberfest 2023 Contribution Opportunity** 🌟
 
 **Welcome to the Social Media Gallery MERN App Repository**
