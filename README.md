@@ -57,7 +57,9 @@ Let's create an engaging and beautiful Social Media Gallery together! 📸🎉
 🌐 **Live Demo**: [Insert Link to Live Demo]
 
 📷 **Screenshots**:
-[Insert Screenshots]
+![Screenshot (561)](https://github.com/Shivampatel07/Social_Media_Gallery_MERN_APP/assets/102176101/222d78e8-088d-45d5-a014-bba845ae7c12)
+![Screenshot (560)](https://github.com/Shivampatel07/Social_Media_Gallery_MERN_APP/assets/102176101/8fd9c1aa-b964-4967-b34f-701d87bf6650)
+
 
 📺 **Demo Video**: [Insert Link to Demo Video]
 
