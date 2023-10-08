@@ -25,3 +25,13 @@
   background-color: white;
   transition: visibility 0.3s; /* Add a smooth transition */
 }
+
+
+.card { 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  transition: box-shadow 0.3s ease;
+}
+
+.card:hover { 
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
